@@ -24,7 +24,7 @@ requests-file==1.4.3
 six==1.11.0
 SQLAlchemy==1.2.6
 tldextract==2.2.0
-urllib3==1.22
+urllib3==1.26.5
 uWSGI==2.0.17
 Werkzeug==0.14.1
 whois==0.7
